@@ -1,0 +1,30 @@
+# Serendipity Serendipity Sunset for WezTerm
+
+[colors]
+ansi = [
+    '#363847',
+    '#d1918f',
+    '#709bbd',
+    '#a392dc',
+    '#a0b6e8',
+    '#aac9d4',
+    '#d6b4b4',
+    '#dee0ef'
+]
+background = '#202231'
+brights = [
+    '#6b6d7c',
+    '#d1918f',
+    '#709bbd',
+    '#a392dc',
+    '#a0b6e8',
+    '#aac9d4',
+    '#d6b4b4',
+    '#dee0ef'
+]
+cursor_bg = '#d1918f'
+cursor_border = '#d1918f'
+cursor_fg = '#202231'
+foreground = '#dee0ef'
+selection_bg = '#6B6D7C26'
+selection_fg = '#dee0ef'

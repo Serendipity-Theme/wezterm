@@ -1,0 +1,30 @@
+# Serendipity Serendipity Morning for WezTerm
+
+[colors]
+ansi = [
+    '#ccd0dc',
+    '#c25a4d',
+    '#2f7aab',
+    '#785fd0',
+    '#6288d8',
+    '#629aa5',
+    '#e58678',
+    '#3f4363'
+]
+background = '#f6f7fb'
+brights = [
+    '#505575',
+    '#c25a4d',
+    '#2f7aab',
+    '#785fd0',
+    '#6288d8',
+    '#629aa5',
+    '#e58678',
+    '#3f4363'
+]
+cursor_bg = '#6d7296'
+cursor_border = '#6d7296'
+cursor_fg = '#f6f7fb'
+foreground = '#3f4363'
+selection_bg = '#5a567018'
+selection_fg = '#3f4363'

@@ -1,0 +1,30 @@
+# Serendipity Serendipity Midnight for WezTerm
+
+[colors]
+ansi = [
+    '#232534',
+    '#ee8679',
+    '#5ba2d0',
+    '#a78bfa',
+    '#94b8ff',
+    '#9ccfd8',
+    '#f8d2c9',
+    '#dee0ef'
+]
+background = '#151726'
+brights = [
+    '#8d8f9e',
+    '#ee8679',
+    '#5ba2d0',
+    '#a78bfa',
+    '#94b8ff',
+    '#9ccfd8',
+    '#f8d2c9',
+    '#dee0ef'
+]
+cursor_bg = '#d1918f'
+cursor_border = '#d1918f'
+cursor_fg = '#151726'
+foreground = '#dee0ef'
+selection_bg = '#6B6D7C33'
+selection_fg = '#dee0ef'
